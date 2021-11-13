@@ -25,6 +25,8 @@
   ## Usage 
   
   Visit https://shrouded-gorge-91193.herokuapp.com/
+
+  ![screenshot](public/assets/note-taker.jpg)
   
   
   ## Contributing
